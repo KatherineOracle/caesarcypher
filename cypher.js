@@ -100,3 +100,6 @@ function asciiArraytoAlphaString(asciiArr){
     }    
     return alphaString; 
 }
+
+
+//git go 
