@@ -100,5 +100,3 @@ function asciiArraytoAlphaString(asciiArr){
     }    
     return alphaString; 
 }
-
-//send to github
