@@ -21,6 +21,9 @@ To install simply download the files cypher.js and index.html to your local PC
 * Select "d" and enter the encoded string. 
 * View the console to see the encoded string converted back to your original message
 
+![Select 'e' for encode](/docs/screenshots/select-e.png) ![Enter readable string](/docs/screenshots/enter-readable-string.png)
+![View the console for encoded string](/docs/screenshots/view-console-encode.png) ![View the console for decoded string](/docs/screenshots/view-console-decode.png)
+
 ## Credits
 * This solution was built by Katherine Van As with JavaScript
 * Thank you to HyperionDev for this excellent exercise
